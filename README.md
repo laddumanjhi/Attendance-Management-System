@@ -1,7 +1,3 @@
-Here’s a visually engaging and icon-rich README template tailored for your **QR Code Based Attendance Management System** built in Java. It uses emojis to enhance clarity and appeal, while maintaining a professional structure.
-
----
-
 # 🎯 Attendance Management System
 
 A secure, backend-powered **QR Code Based Attendance Management System** built using **Java**. Designed for educational institutions to streamline attendance tracking with role-based access and QR code integration.
@@ -76,5 +72,3 @@ Attendance-Management-System/
 - 🌐 Multilingual support (English, Hindi)
 
 ---
-
-Would you like me to help you generate the actual QR code logic or backend structure next?
